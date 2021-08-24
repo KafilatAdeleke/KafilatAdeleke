@@ -21,3 +21,5 @@
 
 👉 Check out my<a href="https://kafilatadeleke.hashnode.dev/">`blog`</a>  
 
+
+👉 Connect with me - adelekekafilatadenike@gmail.com
