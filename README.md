@@ -1,7 +1,7 @@
 ### Hi there, I'm Kafilat 👋
 
 #### Open Source Contributor at OpenStack <a href="https://review.opendev.org/q/owner:adelekekafilatadenike%2540gmail.com">`Gerrit`</a>
-#### Outreachy'21 intern at OpenStack
+
 
 - 🔭 I’m currently working on <a href="https://github.com/openstack/openstacksdk">`OpenStack SDK`</a>
 - 🌱 I’m currently learning Go
